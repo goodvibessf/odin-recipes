@@ -1,5 +1,5 @@
-# odin-recipes
+# WoW Cooking Book
 TOP - Foundations - Project: Recipes
 
-First time trying on a project
-Will end up by finishing the first project without any issues!
+Try to build a WoW Cooking Book
+Will work without any issues!
